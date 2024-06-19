@@ -7,7 +7,8 @@ The application features include:
 1. Adding todos
 2. Editing todos
 3. Deleting todos
-4. Storing todos in local storage
+4. Checking and Unchecking todos
+5. Storing todos in local storage
 
 Deployment link: https://to-do-app-gamma-seven.vercel.app/
 
